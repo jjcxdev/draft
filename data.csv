@@ -1,0 +1,685 @@
+ID,Player,Team,Position,RkOv,Status,Opponent,FPts,FP/G,%D,ADP,Ros %
+*02lol*,Harry Kane,TOT,F,1,FA,@BRF Sun 9:00AM,652,17.16,100%,12.65,100%
+*061vq*,Erling Haaland,MCI,F,2,FA,@BUR Fri 3:00PM,622.5,17.79,100%,1.13,100%
+*05gcr*,Bruno Fernandes,MUN,M,3,FA,WOL Mon 3:00PM,601.75,16.26,100%,3.03,100%
+*03dx3*,Kieran Trippier,NEW,D,4,FA,AVL Sat 12:30PM,578.25,15.22,100%,11.78,100%
+*04y92*,Bukayo Saka,ARS,F,5,FA,NOT Sat 7:30AM,560.5,14.75,100%,4.41,100%
+*03aqp*,Mohamed Salah,LIV,F,6,FA,@CHE Sun 11:30AM,552.5,14.54,100%,3.17,100%
+*02oox*,Kevin De Bruyne,MCI,M,7,FA,@BUR Fri 3:00PM,536.25,16.76,100%,5.01,100%
+*05r9b*,Martin Odegaard,ARS,M,8,FA,NOT Sat 7:30AM,531.5,14.36,100%,8.87,100%
+*04e1k*,Solly March,BHA,M,9,FA,LUT Sat 10:00AM,498.5,15.11,100%,30.34,100%
+*052h5*,Gabriel Martinelli,ARS,F,10,FA,NOT Sat 7:30AM,491.25,13.65,100%,14.01,100%
+*04fk1*,Pascal Gross,BHA,M,11,FA,LUT Sat 10:00AM,464,12.54,100%,37.52,100%
+*03ybi*,Marcus Rashford,MUN,F,12,FA,WOL Mon 3:00PM,456.5,13.04,100%,8.75,100%
+*0414o*,James Maddison,TOT,M,13,FA,@BRF Sun 9:00AM,451,15.03,100%,16.22,100%
+*03srg*,Trent Alexander-Arnold,LIV,D,14,FA,@CHE Sun 11:30AM,442,11.95,100%,7.82,100%
+*03v6w*,Ivan Toney,BRF,F,15,FA,TOT Sun 9:00AM,438.25,13.28,68%,120.41,100%
+*04qr9*,Morgan Gibbs-White,NOT,M,16,FA,@ARS Sat 7:30AM,430.25,11.63,100%,40.98,100%
+*05u94*,Michael Olise,CRY,M,17,FA,@SHU Sat 10:00AM,427.5,11.55,100%,53.57,100%
+*05nt6*,Eberechi Eze,CRY,M,18,FA,@SHU Sat 10:00AM,424.75,11.18,100%,29.1,100%
+*05ocl*,Ollie Watkins,AVL,F,19,FA,@NEW Sat 12:30PM,422,11.41,100%,20.95,100%
+*03v9d*,Son Heung-Min,TOT,F,20,FA,@BRF Sun 9:00AM,418.75,11.63,100%,12.79,100%
+*05trb*,Bryan Mbeumo,BRF,F,21,FA,TOT Sun 9:00AM,416.25,10.95,100%,37.01,100%
+*038ze*,Alex Iwobi,EVE,M,22,FA,FUL Sat 10:00AM,405.5,10.67,96%,84.05,100%
+*0522h*,Alexis Mac Allister,LIV,M,23,FA,@CHE Sun 11:30AM,395.75,11.31,100%,35.52,100%
+*046c5*,Jarrod Bowen,WHU,M,24,FA,@BOU Sat 10:00AM,393.5,10.36,100%,32.05,100%
+*04p0d*,Dwight McNeil,EVE,M,25,FA,FUL Sat 10:00AM,385.5,10.71,98%,54.41,100%
+*0520r*,Leandro Trossard,ARS,F,26,FA,NOT Sat 7:30AM,378.75,10.52,99%,63.31,100%
+*05tqx*,David Raya,BRF,G,27,FA,TOT Sun 9:00AM,375,9.87,84%,110.72,100%
+*062ci*,Kaoru Mitoma,BHA,M,28,FA,LUT Sat 10:00AM,371,11.24,100%,21.4,100%
+*04abb*,Phil Foden,MCI,M,29,FA,@BUR Fri 3:00PM,364.25,11.38,100%,16.61,100%
+*04spp*,Douglas Luiz,AVL,M,30,FA,@NEW Sat 12:30PM,356.75,9.64,96%,91.45,100%
+*045c8*,Gabriel Jesus,ARS,F,31,FA,NOT Sat 7:30AM,353.25,13.59,100%,11.95,100%
+*0554i*,Joelinton,NEW,M,32,FA,AVL Sat 12:30PM,351.5,10.98,100%,58.9,100%
+*04tig*,Fabian Schar,NEW,D,33,FA,AVL Sat 12:30PM,351.25,9.76,100%,61.65,100%
+*04agz*,Declan Rice,ARS,M,34,FA,NOT Sat 7:30AM,346.75,9.37,100%,50.83,100%
+*05tr9*,Mathias Jensen,BRF,M,35,FA,TOT Sun 9:00AM,345.75,9.34,78%,116.18,100%
+*03dx7*,Ben Mee,BRF,D,36,FA,TOT Sun 9:00AM,342,9.24,100%,77,100%
+*051k3*,Jacob Ramsey,AVL,M,37,FA,@NEW Sat 12:30PM,336,9.6,92%,99.19,100%
+*03r8x*,Callum Wilson,NEW,F,38,FA,AVL Sat 12:30PM,334.75,10.8,100%,50.6,100%
+*02lm7*,Jack Grealish,MCI,M,39,FA,@BUR Fri 3:00PM,332,11.86,100%,14.68,100%
+*0427d*,James Tarkowski,EVE,D,40,FA,FUL Sat 10:00AM,331.5,8.72,96%,82.49,100%
+*04ge6*,Joe Willock,NEW,M,41,FA,AVL Sat 12:30PM,331.5,9.47,63%,136.52,100%
+*05oyq*,Said Benrahma,WHU,M,42,FA,@BOU Sat 10:00AM,329.25,9.41,97%,88.7,100%
+*04yo6*,Miguel Almiron,NEW,F,43,FA,AVL Sat 12:30PM,326,9.59,99%,76.3,100%
+*03jly*,Andreas Pereira,FUL,M,44,FA,@EVE Sat 10:00AM,324.25,9.83,99%,75.39,100%
+*04abn*,Harvey Barnes,NEW,M,45,FA,AVL Sat 12:30PM,319.25,9.39,100%,66.05,100%
+*043qz*,Pierre-Emile Hojbjerg,TOT,M,46,FA,@BRF Sun 9:00AM,319.25,9.12,43%,137.34,100%
+*0524k*,Rodri,MCI,M,47,FA,@BUR Fri 3:00PM,317.5,8.82,98%,55.9,100%
+*063zg*,Pervis Estupinan,BHA,D,48,FA,LUT Sat 10:00AM,310.25,8.86,100%,44.72,100%
+*05ylj*,Bruno Guimaraes,NEW,M,49,FA,AVL Sat 12:30PM,309.75,9.68,100%,44.71,100%
+*05rb8*,Moises Caicedo,BHA,M,50,FA,LUT Sat 10:00AM,304.75,8.24,92%,101.25,100%
+*04f67*,Philip Billing,BOU,M,51,FA,WHU Sat 10:00AM,304.5,8.46,68%,129.95,100%
+*05tr1*,Ethan Pinnock,BRF,D,52,FA,TOT Sun 9:00AM,304.5,10.15,100%,69.31,100%
+*03gu5*,Andrew Robertson,LIV,D,53,FA,@CHE Sun 11:30AM,303.25,8.92,100%,31.15,100%
+*02oq6*,Luke Shaw,MUN,D,54,FA,WOL Mon 3:00PM,299.75,9.67,100%,39.12,100%
+*061yd*,Ivan Perisic,TOT,M,55,FA,@BRF Sun 9:00AM,299.5,8.81,57%,126.29,100%
+*061ya*,Brennan Johnson,NOT,F,56,FA,@ARS Sat 7:30AM,298,7.84,94%,96.58,100%
+*037mo*,Willian,FUL,F,57,FA,@EVE Sat 10:00AM,295.75,10.95,95%,85.35,100%
+*03fgo*,Dominic Solanke,BOU,F,58,FA,WHU Sat 10:00AM,295.5,8.95,91%,101.03,100%
+*04sjt*,Alisson,LIV,G,59,FA,@CHE Sun 11:30AM,294.25,7.95,100%,74.84,100%
+*04qor*,Bernd Leno,FUL,G,60,FA,@EVE Sat 10:00AM,291.5,8.1,76%,129.12,100%
+*04e1e*,Ben White,ARS,D,61,FA,NOT Sat 7:30AM,288.75,7.6,97%,95.42,100%
+*0647t*,Lucas Paqueta,WHU,M,62,FA,@BOU Sat 10:00AM,287,10.25,100%,49.32,100%
+*05o6h*,Kai Havertz,ARS,F,63,FA,NOT Sat 7:30AM,285.25,8.15,100%,44.47,100%
+*05nzu*,Gabriel Magalhaes,ARS,D,64,FA,NOT Sat 7:30AM,280,7.37,99%,82.15,100%
+*05oeh*,Kenny Tete,FUL,D,65,FA,@EVE Sat 10:00AM,279.25,9.01,97%,94.43,100%
+*03scr*,Aleksandar Mitrovic,FUL,F,66,FA,@EVE Sat 10:00AM,279,11.62,88%,72.21,100%
+*05gcp*,Tomas Soucek,WHU,M,67,FA,@BOU Sat 10:00AM,278.5,7.74,52%,141.63,0%
+*061x2*,Darwin Nunez,LIV,F,68,FA,@CHE Sun 11:30AM,277.5,9.57,100%,25.31,100%
+*03sgc*,Jordan Ayew,CRY,F,69,FA,@SHU Sat 10:00AM,274.75,7.23,36%,143.91,100%
+*05ylx*,Dejan Kulusevski,TOT,M,70,FA,@BRF Sun 9:00AM,273.5,9.12,100%,43.77,100%
+*04qfz*,Diogo Dalot,MUN,D,71,FA,WOL Mon 3:00PM,273,10.5,100%,74.61,100%
+*02lsa*,Dan Burn,NEW,D,72,FA,AVL Sat 12:30PM,271.75,7.15,96%,100.47,100%
+*03yq8*,Demarai Gray,EVE,F,73,FA,FUL Sat 10:00AM,270.25,8.19,53%,139.27,100%
+*044ei*,Nick Pope,NEW,G,74,FA,AVL Sat 12:30PM,266.5,7.2,98%,97.39,100%
+*04gw7*,Jadon Sancho,MUN,M,75,FA,WOL Mon 3:00PM,265,10.19,98%,81.1,100%
+*03rzp*,Antonee Robinson,FUL,D,76,FA,@EVE Sat 10:00AM,264.5,7.56,74%,119.68,100%
+*04yo7*,Youri Tielemans,AVL,M,77,FA,@NEW Sat 12:30PM,262.5,8.47,99%,83.81,100%
+*02lz0*,Emiliano Martinez,AVL,G,78,FA,@NEW Sat 12:30PM,262.25,7.28,91%,116.05,100%
+*051kl*,Emiliano Buendia,AVL,M,79,FA,@NEW Sat 12:30PM,260.75,6.86,82%,111.63,100%
+*062a9*,Sven Botman,NEW,D,80,FA,AVL Sat 12:30PM,260.5,7.24,99%,88.09,100%
+*04tzt*,Jefferson Lerma,CRY,M,81,FA,@SHU Sat 10:00AM,260,7.03,14%,267.36,0%
+*0642l*,Casemiro,MUN,M,82,FA,WOL Mon 3:00PM,259.5,9.27,99%,64.51,100%
+*05udg*,Jose Sa,WOL,G,83,FA,@MUN Mon 3:00PM,259.5,7.21,43%,136.82,100%
+*03vlj*,Virgil van Dijk,LIV,D,84,FA,@CHE Sun 11:30AM,256.75,8.02,100%,45.03,100%
+*04fk6*,Bernardo Silva,MCI,M,85,FA,@BUR Fri 3:00PM,254.5,7.49,99%,68.73,100%
+*037mt*,Harrison Reed,FUL,M,86,FA,@EVE Sat 10:00AM,250.5,6.77,4%,413.25,0%
+*04amh*,Aaron Ramsdale,ARS,G,87,FA,NOT Sat 7:30AM,247.5,6.51,94%,102.74,0%
+*02lnx*,Danny Welbeck,BHA,F,88,FA,LUT Sat 10:00AM,245.5,7.92,34%,147.34,0%
+*051k0*,John McGinn,AVL,M,89,FA,@NEW Sat 12:30PM,241.5,7.1,53%,136.57,100%
+*0646f*,Alexander Isak,NEW,F,90,FA,AVL Sat 12:30PM,241.25,10.97,100%,21.95,100%
+*0639x*,Marcus Tavernier,BOU,M,91,FA,WHU Sat 10:00AM,241.25,10.49,66%,121.62,100%
+*037wp*,Christian Eriksen,MUN,M,92,FA,WOL Mon 3:00PM,239.25,8.54,77%,117,100%
+*032f9*,Jordan Pickford,EVE,G,93,FA,FUL Sat 10:00AM,239.25,6.47,54%,134.93,0%
+*062dt*,Joao Palhinha,FUL,M,94,FA,@EVE Sat 10:00AM,238.5,6.81,33%,142.32,100%
+*062ot*,Cheick Doucoure,CRY,M,95,FA,@SHU Sat 10:00AM,238,7,12%,292.21,0%
+*05os9*,Thomas Partey,ARS,M,96,FA,NOT Sat 7:30AM,237.75,7.2,16%,249.3,0%
+*05tqz*,Rico Henry,BRF,D,97,FA,TOT Sun 9:00AM,236.75,6.4,59%,131.92,100%
+*02lkp*,Raheem Sterling,CHE,F,98,FA,LIV Sun 11:30AM,236.75,8.46,100%,50.99,100%
+*02lym*,Lukasz Fabianski,WHU,G,99,FA,@BOU Sat 10:00AM,235,6.53,14%,276.5,0%
+*03rec*,Tyrone Mings,AVL,D,100,FA,@NEW Sat 12:30PM,234.5,6.7,54%,136.22,0%
+*063zi*,Matheus Nunes,WOL,M,101,FA,@MUN Mon 3:00PM,231.5,6.81,19%,210.51,100%
+*062cn*,Julian Alvarez,MCI,F,102,FA,@BUR Fri 3:00PM,227.5,7.34,100%,62.05,100%
+*05uns*,Leon Bailey,AVL,F,103,FA,@NEW Sat 12:30PM,227,6.88,47%,141.2,0%
+*05gcq*,Daniel Podence,WOL,F,104,FA,@MUN Mon 3:00PM,226.5,7.08,10%,316.13,0%
+*03dyl*,Jeffrey Schlupp,CRY,M,105,FA,@SHU Sat 10:00AM,220,6.47,3%,409.64,0%
+*063hu*,Amadou Onana,EVE,M,106,FA,FUL Sat 10:00AM,219.5,6.65,12%,289.18,0%
+*0649i*,Antony,MUN,F,107,FA,WOL Mon 3:00PM,219.25,8.77,99%,62.64,100%
+*03rxa*,Idrissa Gueye,EVE,M,108,FA,FUL Sat 10:00AM,216.25,6.55,2%,1073,0%
+*04u40*,Kepa,CHE,G,109,FA,LIV Sun 11:30AM,215.75,7.44,59%,137.69,100%
+*04yey*,Max Kilman,WOL,D,110,FA,@MUN Mon 3:00PM,213.25,5.76,17%,236.87,0%
+*050jq*,Marc Guehi,CRY,D,111,FA,@SHU Sat 10:00AM,213,5.76,38%,135.69,0%
+*02oo1*,Ben Davies,TOT,D,112,FA,@BRF Sun 9:00AM,210.75,6.8,21%,197.17,0%
+*05os8*,Joachim Andersen,CRY,D,113,FA,@SHU Sat 10:00AM,206.75,6.46,53%,138.01,0%
+*067yv*,Cody Gakpo,LIV,F,114,FA,@CHE Sun 11:30AM,206.5,9.83,100%,29.96,100%
+*02lpn*,Eric Dier,TOT,D,115,FA,@BRF Sun 9:00AM,205.25,6.22,10%,299.88,0%
+*061ve*,Ryan Christie,BOU,M,116,FA,WHU Sat 10:00AM,204,6.38,9%,337.35,0%
+*063e3*,Neto,BOU,G,117,FA,WHU Sat 10:00AM,203.25,7.53,6%,350.54,0%
+*043c1*,Oleksandr Zinchenko,ARS,D,118,FA,NOT Sat 7:30AM,201.75,7.47,100%,71.4,100%
+*0558w*,William Saliba,ARS,D,119,FA,NOT Sat 7:30AM,200,7.41,99%,74.07,100%
+*04e1c*,Lewis Dunk,BHA,D,120,FA,LUT Sat 10:00AM,199.25,5.53,48%,131.16,100%
+*04ug0*,Sean Longstaff,NEW,M,121,FA,AVL Sat 12:30PM,197.5,5.98,1%,1072,0%
+*05akv*,Tyrick Mitchell,CRY,D,122,FA,@SHU Sat 10:00AM,197,5.47,4%,373.2,0%
+*05ylw*,Rodrigo Bentancur,TOT,M,123,FA,@BRF Sun 9:00AM,194.75,10.82,27%,149.46,100%
+*05ybq*,Vitalii Mykolenko,EVE,D,124,FA,FUL Sat 10:00AM,194.75,5.73,10%,312.44,0%
+*05tre*,Vitaly Janelt,BRF,M,125,FA,TOT Sun 9:00AM,194.25,5.55,1%,1111.67,0%
+*03ena*,Aaron Cresswell,WHU,D,126,FA,@BOU Sat 10:00AM,192.25,6.87,29%,150.3,100%
+*052cd*,Mason Mount,MUN,M,127,FA,WOL Mon 3:00PM,192.25,8.01,100%,27.17,100%
+*04rd0*,Bobby De Cordova-Reid,FUL,F,128,FA,@EVE Sat 10:00AM,191.5,5.32,9%,314.92,0%
+*05nt7*,Thiago Silva,CHE,D,129,FA,LIV Sun 11:30AM,190.25,7.05,71%,126.52,100%
+*03dxq*,Danny Ings,WHU,F,130,FA,@BOU Sat 10:00AM,189.75,5.42,24%,152.19,0%
+*05uor*,Yoane Wissa,BRF,F,131,FA,TOT Sun 9:00AM,188.5,4.96,68%,128.16,100%
+*05tr8*,Christian Norgaard,BRF,M,132,FA,TOT Sun 9:00AM,188,8.55,10%,310.76,0%
+*04qr8*,Diogo Jota,LIV,F,133,FA,@CHE Sun 11:30AM,185.5,8.43,100%,55.55,100%
+*05uoc*,Cristian Romero,TOT,D,134,FA,@BRF Sun 9:00AM,185.25,6.86,41%,136.9,0%
+*04rhc*,Vicente Guaita,CRY,G,135,FA,@SHU Sat 10:00AM,184.5,6.83,1%,1156,0%
+*062pl*,Lisandro Martinez,MUN,D,136,FA,WOL Mon 3:00PM,183.75,6.81,97%,97.72,100%
+*052ca*,Ezri Konsa,AVL,D,137,FA,@NEW Sat 12:30PM,181.5,4.78,9%,318.2,0%
+*051k8*,Conor Gallagher,CHE,M,138,FA,LIV Sun 11:30AM,180.75,5.16,64%,132.18,100%
+*03yu2*,Abdoulaye Doucoure,EVE,M,139,FA,FUL Sat 10:00AM,180.25,7.21,49%,139.12,100%
+*03vll*,Michail Antonio,WHU,F,140,FA,@BOU Sat 10:00AM,178.5,5.41,38%,143.75,100%
+*0329y*,Joel Ward,CRY,D,141,FA,@SHU Sat 10:00AM,177.75,6.35,3%,402.79,0%
+*04rzl*,Taiwo Awoniyi,NOT,F,142,FA,@ARS Sat 7:30AM,176.5,6.54,59%,129.98,100%
+*04kj7*,Serge Aurier,NOT,D,143,FA,@ARS Sat 7:30AM,176.25,7.34,29%,152.27,0%
+*0687b*,Alex Moreno,AVL,D,144,FA,@NEW Sat 12:30PM,174,9.16,99%,81,100%
+*04qqv*,Fred,MUN,M,145,FA,WOL Mon 3:00PM,170.25,4.86,4%,373.25,0%
+*02m6x*,Tim Ream,FUL,D,146,FA,@EVE Sat 10:00AM,169.5,5.14,5%,358.73,0%
+*05opk*,Vladimir Coufal,WHU,D,147,FA,@BOU Sat 10:00AM,169.25,6.27,16%,253.9,100%
+*04xjr*,Harvey Elliott,LIV,M,148,FA,@CHE Sun 11:30AM,169,5.28,14%,262.65,0%
+*04adp*,Aaron Wan-Bissaka,MUN,D,149,FA,WOL Mon 3:00PM,167.25,8.8,90%,112.59,100%
+*0570n*,Joao Cancelo,MCI,D,150,W (Mon),@BUR Fri 3:00PM,167,9.82,79%,111.35,100%
+*04s8k*,Jorginho,ARS,M,151,FA,NOT Sat 7:30AM,167,5.22,9%,298.5,0%
+*02w72*,Hugo Lloris,TOT,G,152,FA,@BRF Sun 9:00AM,166,6.64,1%,1129,0%
+*05w9m*,Emerson Royal,TOT,D,153,FA,@BRF Sun 9:00AM,165.75,6.38,23%,167.15,0%
+*03arh*,Kurt Zouma,WHU,D,154,FA,@BOU Sat 10:00AM,164,6.56,14%,265.65,0%
+*068lx*,Dango Ouattara,BOU,F,155,FA,WHU Sat 10:00AM,162.5,8.55,59%,123.89,100%
+*04mdn*,Anthony Gordon,NEW,F,156,FA,AVL Sat 12:30PM,161.75,5.05,62%,131.14,100%
+*05w9q*,Odsonne Edouard,CRY,F,157,FA,@SHU Sat 10:00AM,160.25,4.58,10%,310.18,0%
+*02lny*,Ashley Young,EVE,D,158,FA,FUL Sat 10:00AM,160,5.52,9%,322.05,0%
+*05mxa*,Joel Veltman,BHA,D,159,FA,LUT Sat 10:00AM,159.25,5.14,17%,235.59,100%
+*05ojg*,Nelson Semedo,WOL,D,160,FA,@MUN Mon 3:00PM,159,4.42,9%,335.14,0%
+*05n07*,Pedro Porro,TOT,D,161,FA,@BRF Sun 9:00AM,158.5,10.57,100%,47.51,100%
+*05a6e*,Neco Williams,NOT,D,162,FA,@ARS Sat 7:30AM,157.25,5.07,21%,198.13,100%
+*03v6t*,Ben Chilwell,CHE,D,163,FA,LIV Sun 11:30AM,155.75,6.77,100%,47.89,100%
+*063e7*,Marcos Senesi,BOU,D,164,FA,WHU Sat 10:00AM,152.5,4.92,2%,388.3,0%
+*051lc*,Pablo Fornals,WHU,M,165,FA,@BOU Sat 10:00AM,151.75,4.74,3%,386.33,0%
+*061xs*,Julio Enciso,BHA,F,166,FA,LUT Sat 10:00AM,151.5,7.58,97%,78.71,100%
+*03am7*,Jacob Murphy,NEW,M,167,FA,AVL Sat 12:30PM,150.25,4.17,5%,347.82,0%
+*05up6*,Raphael Varane,MUN,D,168,FA,WOL Mon 3:00PM,149.25,6.22,72%,124.83,100%
+*04qos*,Issa Diop,FUL,D,169,FA,@EVE Sat 10:00AM,149,5.96,1%,1127.33,0%
+*048xg*,Josh Dasilva,BRF,M,170,FA,TOT Sun 9:00AM,148.5,4.12,1%,1113,0%
+*02y6o*,Nathan Ake,MCI,D,171,FA,@BUR Fri 3:00PM,147.75,5.68,86%,107.71,100%
+*043qy*,Lewis Cook,BOU,M,172,FA,WHU Sat 10:00AM,147.75,5.28,0%,-,0%
+*02yl5*,John Stones,MCI,D,174,FA,@BUR Fri 3:00PM,147,6.39,100%,64.43,100%
+*03vlm*,Anthony Martial,MUN,F,173,FA,WOL Mon 3:00PM,147,7,23%,174.03,0%
+*051k7*,Reece James,CHE,D,175,FA,LIV Sun 11:30AM,145.5,9.09,100%,31.09,100%
+*05omu*,Ruben Dias,MCI,D,176,FA,@BUR Fri 3:00PM,145,5.58,99%,70.63,100%
+*02m4d*,Craig Dawson,WOL,D,177,FA,@MUN Mon 3:00PM,140.75,5.63,2%,376.3,0%
+*04fk5*,Ederson,MCI,G,178,FA,@BUR Fri 3:00PM,139.5,3.99,92%,86.26,100%
+*04io4*,Richarlison,TOT,F,179,FA,@BRF Sun 9:00AM,139.5,5.17,98%,82.6,100%
+*05vyj*,Evan Ferguson,BHA,F,180,FA,LUT Sat 10:00AM,138.75,7.3,95%,83.19,100%
+*068ym*,Enzo Fernandez,CHE,M,181,FA,LIV Sun 11:30AM,138.25,7.68,98%,77.86,100%
+*04u41*,Mateo Kovacic,MCI,M,182,FA,@BUR Fri 3:00PM,137,5.07,86%,106.5,100%
+*05w9i*,Marc Cucurella,CHE,D,183,FA,LIV Sun 11:30AM,136.75,5.7,40%,139.63,0%
+*061vk*,Jaidon Anthony,BOU,F,184,FA,WHU Sat 10:00AM,136.5,4.55,1%,1152,0%
+*03r93*,Joseph Gomez,LIV,D,185,FA,@CHE Sun 11:30AM,134.25,6.39,0%,1140,0%
+*05yld*,Luis Diaz,LIV,F,187,FA,@CHE Sun 11:30AM,134,7.88,100%,26,100%
+*0649j*,Manuel Akanji,MCI,D,186,FA,@BUR Fri 3:00PM,134,4.62,82%,101.64,0%
+*03yww*,Dean Henderson,MUN,G,188,FA,WOL Mon 3:00PM,134,7.44,4%,372.94,0%
+*063zh*,Thilo Kehrer,WHU,D,189,FA,@BOU Sat 10:00AM,133.75,4.95,0%,-,0%
+*063u9*,Remo Freuler,NOT,M,190,FA,@ARS Sat 7:30AM,133,4.75,0%,-,0%
+*0620k*,Nayef Aguerd,WHU,D,191,FA,@BOU Sat 10:00AM,131,7.28,14%,272.46,0%
+*056ir*,Adam Webster,BHA,D,192,FA,LUT Sat 10:00AM,130.25,4.82,8%,329.75,0%
+*02lp5*,Adam Smith,BOU,D,193,FA,WHU Sat 10:00AM,128.5,3.47,0%,-,0%
+*061xw*,Joe Worrall,NOT,D,194,FA,@ARS Sat 7:30AM,127.5,4.25,0%,-,0%
+*062ft*,Tyrell Malacia,MUN,D,195,FA,WOL Mon 3:00PM,127,5.77,0%,1155,0%
+*03yeg*,Tosin Adarabioyo,FUL,D,196,FA,@EVE Sat 10:00AM,124.5,4.98,2%,1117.5,0%
+*02lpl*,Seamus Coleman,EVE,D,197,FA,FUL Sat 10:00AM,124.25,5.4,0%,1105,0%
+*05u7f*,Ibrahima Konate,LIV,D,198,FA,@CHE Sun 11:30AM,123.5,6.86,93%,103.04,100%
+*05o4b*,Matty Cash,AVL,D,199,FA,@NEW Sat 12:30PM,122.75,4.72,83%,113.22,100%
+*051k5*,Lloyd Kelly,BOU,D,200,FA,WHU Sat 10:00AM,121.75,5.29,0%,-,0%
+*04ge9*,Eddie Nketiah,ARS,F,201,FA,NOT Sat 7:30AM,121.5,4.05,24%,155.17,0%
+*03rxs*,Harry Wilson,FUL,M,202,FA,@EVE Sat 10:00AM,120.5,4.16,74%,109.86,100%
+*068yj*,Felipe,NOT,D,203,FA,@ARS Sat 7:30AM,118.25,7.39,54%,127.49,100%
+*05oh2*,Thiago Alcantara,LIV,M,204,FA,@CHE Sun 11:30AM,117,6.5,6%,354.9,0%
+*04ylt*,Chris Mepham,BOU,D,205,FA,WHU Sat 10:00AM,115.5,4.44,0%,-,0%
+*061va*,Boubacar Kamara,AVL,M,206,FA,@NEW Sat 12:30PM,115,4.79,1%,1123.5,0%
+*04fk8*,Victor Lindelof,MUN,D,207,FA,WOL Mon 3:00PM,112.25,5.61,2%,424.9,0%
+*05n3v*,Konstantinos Tsimikas,LIV,D,208,FA,@CHE Sun 11:30AM,112,5.6,5%,354.5,0%
+*068a3*,Danilo,NOT,M,209,FA,@ARS Sat 7:30AM,112,8.62,27%,156.1,0%
+*0637b*,Orel Mangala,NOT,M,210,FA,@ARS Sat 7:30AM,110.75,4.1,0%,-,0%
+*05opn*,Carlos Vinicius,FUL,F,211,FA,@EVE Sat 10:00AM,108.75,3.88,23%,174.2,100%
+*061y6*,Ryan Yates,NOT,M,212,FA,@ARS Sat 7:30AM,108.75,4.18,0%,-,0%
+*04o82*,Curtis Jones,LIV,M,213,FA,@CHE Sun 11:30AM,106.75,5.93,35%,151.55,0%
+*049tq*,Dominic Calvert-Lewin,EVE,F,214,FA,FUL Sat 10:00AM,106.5,6.26,70%,116.97,100%
+*05w91*,Hwang Hee-Chan,WOL,F,215,FA,@MUN Mon 3:00PM,105.75,3.92,4%,398.39,0%
+*04yme*,Robert Sanchez,CHE,G,216,FA,LIV Sun 11:30AM,105.5,4.59,7%,313.65,0%
+*061vj*,Kieffer Moore,BOU,F,217,FA,WHU Sat 10:00AM,103.5,3.83,0%,-,0%
+*0327r*,Michael Keane,EVE,D,218,FA,FUL Sat 10:00AM,103.25,8.6,63%,126.17,0%
+*04rha*,Jason Steele,BHA,G,219,FA,LUT Sat 10:00AM,103.25,6.88,25%,148.59,0%
+*04tm0*,Lucas Digne,AVL,D,220,FA,@NEW Sat 12:30PM,102.75,3.67,40%,136.29,0%
+*02lp9*,Kyle Walker,MCI,D,221,FA,@BUR Fri 3:00PM,102,3.78,52%,129.89,0%
+*06329*,Manor Solomon,TOT,F,222,FA,@BRF Sun 9:00AM,99.75,5.25,30%,144.58,100%
+*04mup*,Trevoh Chalobah,CHE,D,223,FA,LIV Sun 11:30AM,98.75,3.95,0%,1178,0%
+*05opl*,Wesley Fofana,CHE,D,224,FA,LIV Sun 11:30AM,98.75,5.81,8%,321.9,0%
+*068n8*,Noni Madueke,CHE,F,225,FA,LIV Sun 11:30AM,98.5,8.21,78%,112.72,100%
+*062og*,Aaron Hickey,BRF,D,226,FA,TOT Sun 9:00AM,97.25,3.74,5%,359.05,0%
+*05mxb*,Hakim Ziyech,CHE,M,227,FA,LIV Sun 11:30AM,96.5,5.36,2%,1051.75,0%
+*04t95*,Oliver Skipp,TOT,M,228,FA,@BRF Sun 9:00AM,96.25,4.18,0%,1141,0%
+*067yz*,Matheus Cunha,WOL,F,229,FA,@MUN Mon 3:00PM,95.25,5.6,26%,149.5,100%
+*056iy*,Pedro Neto,WOL,F,230,FA,@MUN Mon 3:00PM,95,5.28,57%,125.98,0%
+*04civ*,Scott McTominay,MUN,M,231,FA,WOL Mon 3:00PM,93.5,3.9,1%,1142.5,0%
+*05os4*,Rayan Ait-Nouri,WOL,D,232,FA,@MUN Mon 3:00PM,93,4.43,0%,1267,0%
+*0633p*,Gianluca Scamacca,WHU,F,233,FA,@BOU Sat 10:00AM,91.25,5.7,26%,151.52,0%
+*02lv9*,James Milner,BHA,M,234,FA,LUT Sat 10:00AM,89.75,2.9,3%,383.87,0%
+*06804*,Benoit Badiashile,CHE,D,235,FA,LIV Sun 11:30AM,88.25,8.02,21%,189.56,0%
+*05u1m*,Nathan Collins,BRF,D,236,FA,TOT Sun 9:00AM,88.25,3.39,5%,354.98,0%
+*061y0*,Scott McKenna,NOT,D,237,FA,@ARS Sat 7:30AM,87.75,4.39,0%,1148,0%
+*04io3*,Mario Lemina,WOL,M,238,FA,@MUN Mon 3:00PM,87.25,4.59,0%,-,0%
+*05tz8*,Emmanuel Dennis,NOT,F,239,FA,@ARS Sat 7:30AM,85.75,4.51,0%,1171,0%
+*05ue7*,Frank Onyeka,BRF,M,240,FA,TOT Sun 9:00AM,85.25,4.06,0%,-,0%
+*063q8*,Mikkel Damsgaard,BRF,M,241,FA,TOT Sun 9:00AM,85,3.27,13%,290.3,100%
+*04ge8*,Reiss Nelson,ARS,F,242,FA,NOT Sat 7:30AM,84,7.64,3%,389.93,0%
+*02opy*,Adam Lallana,BHA,M,243,FA,LUT Sat 10:00AM,83.5,5.22,1%,1133.5,0%
+*05tr5*,Mads Roerslev,BRF,D,244,FA,TOT Sun 9:00AM,83.5,4.17,3%,336.64,0%
+*04tcc*,Jonny,WOL,D,245,FA,@MUN Mon 3:00PM,82.25,4.57,0%,1127,0%
+*02m11*,Matt Doherty,WOL,D,246,W (Mon),@MUN Mon 3:00PM,81.75,6.81,66%,123.71,0%
+*04mqv*,Emerson,WHU,D,247,FA,@BOU Sat 10:00AM,81.75,3.72,8%,324.01,0%
+*062p5*,Levi Colwill,CHE,D,248,FA,LIV Sun 11:30AM,81.25,4.78,73%,122.78,100%
+*0328q*,Tom Cairney,FUL,M,249,FA,@EVE Sat 10:00AM,80,2.42,0%,-,0%
+*05yg5*,Toti,WOL,D,250,FA,@MUN Mon 3:00PM,80,4.71,0%,-,0%
+*05raa*,Hugo Bueno,WOL,D,251,FA,@MUN Mon 3:00PM,79.5,3.79,0%,1189,0%
+*03eki*,Cheikhou Kouyate,NOT,M,252,FA,@ARS Sat 7:30AM,79,3.76,0%,-,0%
+*03gu4*,Harry Maguire,MUN,D,253,FA,WOL Mon 3:00PM,78.75,4.92,7%,336.73,0%
+*03z3w*,Joe Rothwell,BOU,M,254,FA,WHU Sat 10:00AM,78.25,3.91,0%,1160,0%
+*03rxb*,Angelo Ogbonna,WHU,D,255,FA,@BOU Sat 10:00AM,77.75,4.86,0%,-,0%
+*060wh*,Alejandro Garnacho Ferreyra,MUN,M,256,FA,WOL Mon 3:00PM,77.25,4.07,72%,124.52,100%
+*04f6o*,Will Hughes,CRY,M,257,FA,@SHU Sat 10:00AM,75.25,2.79,0%,-,0%
+*05y9n*,Lewis Hall,CHE,D,258,FA,LIV Sun 11:30AM,74.5,8.28,29%,148.7,100%
+*02m5b*,Chris Wood,NOT,F,259,FA,@ARS Sat 7:30AM,74,2.96,1%,1066.6,0%
+*04u6i*,Leander Dendoncker,AVL,M,260,FA,@NEW Sat 12:30PM,73.5,3.06,0%,1137,0%
+*02yhi*,Philippe Coutinho,AVL,M,261,FA,@NEW Sat 12:30PM,73.25,3.66,6%,344.26,0%
+*056mf*,Neal Maupay,EVE,F,262,FA,FUL Sat 10:00AM,73.25,2.71,1%,1128.67,0%
+*0435s*,Joel Matip,LIV,D,263,FA,@CHE Sun 11:30AM,71,5.07,3%,398.17,0%
+*068a1*,Mykhailo Mudryk,CHE,M,264,FA,LIV Sun 11:30AM,70.75,4.72,100%,63.3,100%
+*04spw*,James Garner,EVE,M,265,FA,FUL Sat 10:00AM,70.5,4.41,8%,345.87,0%
+*061z3*,Fabio Vieira,ARS,M,266,FA,NOT Sat 7:30AM,70.25,3.19,3%,387.07,0%
+*04qrc*,Raul Jimenez,FUL,F,267,FA,@EVE Sat 10:00AM,70,4.67,50%,126.96,0%
+*067zv*,Kevin Schade,BRF,M,268,FA,TOT Sun 9:00AM,69.5,3.86,51%,132.06,100%
+*05ylv*,Wout Weghorst,BUR,F,269,FA,MCI Fri 3:00PM,69.5,4.09,9%,318.64,0%
+*04fyg*,Zanka,BRF,D,270,FA,TOT Sun 9:00AM,69.25,3.85,0%,1079,0%
+*04mqu*,Aymeric Laporte,MCI,D,271,FA,@BUR Fri 3:00PM,68.5,5.71,9%,316.54,0%
+*063e8*,Goncalo Guedes,WOL,F,272,W (Mon),@MUN Mon 3:00PM,67.75,5.21,0%,-,0%
+*05yct*,Nathan Patterson,EVE,D,273,FA,FUL Sat 10:00AM,67.5,3.55,3%,383.83,0%
+*068yr*,Hamed Traore,BOU,M,274,FA,WHU Sat 10:00AM,62.25,8.89,81%,105.83,100%
+*05opj*,Elliot Anderson,NEW,M,275,FA,AVL Sat 12:30PM,61.25,2.78,11%,287.82,0%
+*04mcg*,Ben Johnson,WHU,D,276,FA,@BOU Sat 10:00AM,61,3.59,0%,-,0%
+*02t1k*,Nathaniel Clyne,CRY,D,277,FA,@SHU Sat 10:00AM,59.75,2.72,0%,-,0%
+*04qr0*,Willy Boly,NOT,D,278,FA,@ARS Sat 7:30AM,59.25,5.39,0%,-,0%
+*02xtd*,Sam Johnstone,CRY,G,279,FA,@SHU Sat 10:00AM,59,6.56,4%,386.17,0%
+*04qfm*,Ryan Sessegnon,TOT,D,280,FA,@BRF Sun 9:00AM,58.5,3.44,0%,-,0%
+*0372y*,Matt Targett,NEW,D,281,FA,AVL Sat 12:30PM,58.25,3.43,2%,382.1,0%
+*05w9r*,Takehiro Tomiyasu,ARS,D,282,FA,NOT Sat 7:30AM,57,2.71,2%,387.9,0%
+*068a7*,Pablo Sarabia,WOL,M,283,FA,@MUN Mon 3:00PM,56.75,4.37,5%,353.41,0%
+*04jyc*,Davinson Sanchez,TOT,D,284,FA,@BRF Sun 9:00AM,56.25,3.12,0%,-,0%
+*062x7*,Rico Lewis,MCI,D,285,FA,@BUR Fri 3:00PM,56,4,28%,147.45,100%
+*062h8*,Moussa Niakhate,NOT,D,286,FA,@ARS Sat 7:30AM,56,4,1%,1113,0%
+*04sft*,Yves Bissouma,TOT,M,287,FA,@BRF Sun 9:00AM,55,2.39,12%,278.18,0%
+*02ltw*,Fraser Forster,TOT,G,288,FA,@BRF Sun 9:00AM,54.5,3.89,0%,-,0%
+*067yu*,Facundo Buonanotte,BHA,M,289,FA,LUT Sat 10:00AM,53.5,4.12,21%,199.06,0%
+*05trd*,Shandon Baptiste,BRF,M,290,FA,TOT Sun 9:00AM,53,2.3,0%,-,0%
+*05749*,Kieran Tierney,ARS,D,291,FA,NOT Sat 7:30AM,53,1.96,11%,290.16,0%
+*068yd*,Joao Gomes,WOL,M,292,FA,@MUN Mon 3:00PM,51.75,4.7,1%,1157,0%
+*062p0*,Stefan Bajcetic,LIV,M,293,FA,@CHE Sun 11:30AM,51.25,4.66,1%,1141.67,0%
+*05r8o*,Jean-Philippe Mateta,CRY,F,294,FA,@SHU Sat 10:00AM,49,1.69,0%,1097,0%
+*05uel*,Kristoffer Ajer,BRF,D,295,FA,TOT Sun 9:00AM,45.75,5.08,1%,1147.5,0%
+*04mlb*,Lewis O'Brien,NOT,M,296,FA,@ARS Sat 7:30AM,45.5,3.5,0%,-,0%
+*02ln2*,Jonny Evans,MUN,D,297,FA,WOL Mon 3:00PM,44.75,3.44,1%,1065.13,0%
+*03r8i*,Steve Cook,NOT,D,298,FA,@ARS Sat 7:30AM,44.5,3.71,0%,-,0%
+*062cw*,Stefan Ortega Moreno,MCI,G,299,FA,@BUR Fri 3:00PM,43.25,14.42,1%,1085.5,0%
+*068sd*,Jakub Kiwior,ARS,D,300,FA,NOT Sat 7:30AM,43,6.14,3%,362,0%
+*05re5*,Carney Chukwuemeka,CHE,M,301,FA,LIV Sun 11:30AM,42.25,3.02,5%,355.05,0%
+*05l8q*,Cole Palmer,MCI,M,302,FA,@BUR Fri 3:00PM,42.25,3.02,8%,332.01,0%
+*03rvw*,Harry Toffolo,NOT,D,303,FA,@ARS Sat 7:30AM,40.5,2.13,0%,-,0%
+*05ue3*,Albert Sambi Lokonga,ARS,M,304,FA,NOT Sat 7:30AM,40,2.67,0%,1130,0%
+*05gvx*,Armando Broja,CHE,F,305,FA,LIV Sun 11:30AM,38.25,3.19,2%,1102,0%
+*051ki*,Ben Godfrey,EVE,D,306,FA,FUL Sat 10:00AM,38.25,2.94,0%,-,0%
+*05ogb*,Anthony Elanga,NOT,F,307,FA,@ARS Sat 7:30AM,37,2.31,41%,140.07,100%
+*03v6s*,Mason Holgate,EVE,D,308,FA,FUL Sat 10:00AM,33,4.12,0%,-,0%
+*05a6d*,Tariq Lamptey,BHA,D,309,FA,LUT Sat 10:00AM,32.5,1.62,12%,272.88,0%
+*044nm*,Rob Holding,ARS,D,310,FA,NOT Sat 7:30AM,31.5,2.25,0%,1268,0%
+*02lkm*,Jonjo Shelvey,NOT,M,311,FA,@ARS Sat 7:30AM,31.5,2.86,0%,-,0%
+*062hb*,Flynn Downes,WHU,M,312,FA,@BOU Sat 10:00AM,30.75,1.46,0%,1155,0%
+*035n1*,Bertrand Traore,AVL,M,313,FA,@NEW Sat 12:30PM,30.5,3.81,0%,-,0%
+*052cc*,Billy Gilmour,BHA,M,314,FA,LUT Sat 10:00AM,29.75,2.12,4%,387.4,0%
+*064a1*,Boubacar Traore,WOL,M,315,FA,@MUN Mon 3:00PM,27.75,2.77,0%,-,0%
+*063w0*,Sergio Gomez,MCI,D,316,FA,@BUR Fri 3:00PM,27.5,2.29,2%,1078,0%
+*04sat*,Emile Smith Rowe,ARS,M,317,FA,NOT Sat 7:30AM,27.5,2.29,20%,206.37,0%
+*062p3*,Keane Lewis-Potter,BRF,F,318,FA,TOT Sun 9:00AM,27,2.7,1%,1143.33,0%
+*05w7t*,Pape Sarr,TOT,M,319,FA,@BRF Sun 9:00AM,23.75,2.16,1%,1069.5,0%
+*068y0*,Antoine Semenyo,BOU,F,320,FA,WHU Sat 10:00AM,23.75,2.16,0%,-,0%
+*05n03*,Kalvin Phillips,MCI,M,321,FA,@BUR Fri 3:00PM,22.75,1.9,2%,405.1,0%
+*05osa*,Robin Olsen,AVL,G,322,FA,@NEW Sat 12:30PM,22.5,5.62,0%,-,0%
+*0635j*,Chris Richards,CRY,D,323,FA,@SHU Sat 10:00AM,22.5,2.5,0%,-,0%
+*055sf*,Arnaut Danjuma Groeneveld,EVE,F,324,FA,FUL Sat 10:00AM,22.25,2.47,56%,133.53,100%
+*02lo6*,Daniel Bentley,WOL,G,325,FA,@MUN Mon 3:00PM,21.25,10.62,0%,1173,0%
+*03r8r*,Ryan Fraser,NEW,M,326,FA,AVL Sat 12:30PM,21.25,2.66,0%,-,0%
+*068yt*,Sasa Lukic,FUL,M,327,FA,@EVE Sat 10:00AM,20.5,1.71,0%,-,0%
+*02t1j*,Calum Chambers,AVL,D,328,FA,@NEW Sat 12:30PM,18.5,1.32,0%,-,0%
+*04mr4*,Martin Dubravka,NEW,G,329,FA,AVL Sat 12:30PM,18.25,9.12,1%,1098.33,0%
+*03r9c*,Cedric Soares,ARS,D,330,FA,NOT Sat 7:30AM,16,2,0%,-,0%
+*05w90*,Maxwel Cornet,WHU,M,331,FA,@BOU Sat 10:00AM,15,1.07,4%,367.61,0%
+*05uh9*,Bryan Gil,TOT,F,332,W (Mon),@BRF Sun 9:00AM,14.5,3.62,0%,-,0%
+*02rn6*,James Tomkins,CRY,D,333,FA,@SHU Sat 10:00AM,13.25,2.21,0%,-,0%
+*05o2l*,Donny van de Beek,MUN,M,334,FA,WOL Mon 3:00PM,11.25,1.61,0%,-,0%
+*05oh0*,Jan-Paul van Hecke,BHA,D,335,FA,LUT Sat 10:00AM,10.25,1.28,0%,-,0%
+*03pih*,Kevin Mbabu,FUL,D,336,FA,@EVE Sat 10:00AM,10,1.67,0%,-,0%
+*068se*,Jhon Duran,AVL,F,337,FA,@NEW Sat 12:30PM,9.75,0.81,0%,1159,0%
+*02m1g*,Wayne Hennessey,NOT,G,338,FA,@ARS Sat 7:30AM,9.75,2.44,0%,1060,0%
+*04rex*,Marek Rodak,FUL,G,339,FA,@EVE Sat 10:00AM,9.5,4.75,0%,1193,0%
+*05oef*,Alphonse Areola,WHU,G,340,FA,@BOU Sat 10:00AM,8.25,1.65,2%,1076.5,0%
+*04rh9*,David Brooks,BOU,M,341,FA,WHU Sat 10:00AM,8,1.33,8%,333.51,0%
+*061vo*,Jay Stansfield,FUL,F,342,FA,@EVE Sat 10:00AM,8,2.67,0%,1165,0%
+*0411y*,Sergi Canos,BRF,F,343,W (Mon),TOT Sun 9:00AM,7.5,1.5,0%,-,0%
+*067yx*,Gustavo Scarpa,NOT,M,344,FA,@ARS Sat 7:30AM,6.75,1.12,0%,1126,0%
+*068yc*,Yasin Ayari,BHA,M,345,FA,LUT Sat 10:00AM,6.5,2.17,0%,1125,0%
+*03r8t*,Matt Ritchie,NEW,D,346,FA,AVL Sat 12:30PM,6.5,0.93,0%,-,0%
+*045ob*,Caoimhin Kelleher,LIV,G,347,FA,@CHE Sun 11:30AM,6,6,0%,-,0%
+*061v9*,Diego Carlos,AVL,D,348,FA,@NEW Sat 12:30PM,5.5,1.83,9%,312.83,0%
+*068yi*,Illia Zabarnyi,BOU,D,349,FA,WHU Sat 10:00AM,5.5,1.1,0%,-,0%
+*04rxe*,Nathaniel Phillips,LIV,D,350,FA,@CHE Sun 11:30AM,4.25,2.12,0%,-,0%
+*066ni*,Thomas Cannon,EVE,F,351,FA,FUL Sat 10:00AM,4,2,0%,-,0%
+*0645x*,Divin Mubama,WHU,F,352,FA,@BOU Sat 10:00AM,4,1.33,2%,381.3,0%
+*062z5*,Joseph Hodge,WOL,M,353,FA,@MUN Mon 3:00PM,3.75,0.62,0%,-,0%
+*062pa*,Joseph Whitworth,CRY,G,354,FA,@SHU Sat 10:00AM,3.25,1.62,0%,-,0%
+*068ys*,Naouirou Ahamada,CRY,M,355,FA,@SHU Sat 10:00AM,3,0.38,1%,1084.33,0%
+*062ck*,Malcolm Ebiowei,CRY,M,356,FA,@SHU Sat 10:00AM,3,1,0%,-,0%
+*05ou8*,Facundo Pellistri,MUN,M,357,FA,WOL Mon 3:00PM,3,0.75,1%,1133,0%
+*04tsd*,Japhet Tanganga,TOT,D,358,FA,@BRF Sun 9:00AM,3,0.75,0%,-,0%
+*03yrr*,Mohamed Elneny,ARS,M,359,FA,NOT Sat 7:30AM,2.5,0.5,0%,-,0%
+*03hvn*,Javier Manquillo,NEW,D,360,FA,AVL Sat 12:30PM,2.25,0.56,0%,-,0%
+*066nn*,Ben Doak,LIV,F,361,FA,@CHE Sun 11:30AM,2,1,1%,1131,0%
+*02lof*,Ryan Fredericks,BOU,D,362,FA,WHU Sat 10:00AM,2,0.17,0%,-,0%
+*04gyz*,Jairo Riedewald,CRY,M,363,FA,@SHU Sat 10:00AM,2,0.33,0%,-,0%
+*05tr4*,Mads Bech Sorensen,BRF,D,364,FA,TOT Sun 9:00AM,1.75,0.44,0%,-,0%
+*06492*,Sasa Kalajdzic,WOL,F,365,FA,@MUN Mon 3:00PM,1.75,1.75,9%,328.1,0%
+*062ts*,Djed Spence,TOT,D,366,W (Mon),@BRF Sun 9:00AM,1.5,0.38,0%,-,0%
+*054p3*,Harvey White,TOT,M,367,FA,@BRF Sun 9:00AM,1.25,1.25,0%,-,0%
+*062dp*,Giulian Biancone,NOT,D,368,FA,@ARS Sat 7:30AM,1,0.5,0%,-,0%
+*0666p*,Kobbie Mainoo,MUN,M,369,FA,WOL Mon 3:00PM,1,1,2%,1102.25,0%
+*03mml*,Dele Alli,EVE,M,370,W (Mon),FUL Sat 10:00AM,0.25,0.12,5%,367.7,0%
+*06451*,Cameron Peupion,BHA,M,371,FA,LUT Sat 10:00AM,0.25,0.25,0%,1173,0%
+*06c6c*,Elijah Adebayo,LUT,F,373,W (Mon),@BHA Sat 10:00AM,0,0,16%,255.76,100%
+*06c6i*,Anel Ahmedhodzic,SHU,D,378,W (Mon),CRY Sat 10:00AM,0,0,32%,146.04,100%
+*05gcs*,Sander Berge,SHU,M,406,W (Mon),CRY Sat 10:00AM,0,0,12%,283.07,100%
+*05gcx*,Josh Brownhill,BUR,M,423,W (Mon),MCI Fri 3:00PM,0,0,84%,105.7,100%
+*06clv*,Mahmoud Dahoud,BHA,M,450,W (Mon),LUT Sat 10:00AM,0,0,41%,143.21,100%
+*05zd7*,Lucas De Bolle,NEW,M,453,W (Mon),AVL Sat 12:30PM,0,0,-,-,100%
+*06dq8*,Moussa Diaby,AVL,F,455,W (Mon),@NEW Sat 12:30PM,0,0,98%,55.73,100%
+*06bdb*,Matthew Dibley-Dias,FUL,M,458,W (Mon),@EVE Sat 10:00AM,0,0,0%,-,100%
+*06clu*,Mark Flekken,BRF,G,472,W (Mon),TOT Sun 9:00AM,0,0,32%,138.53,100%
+*05yf1*,Melkamu Frauendorf,LIV,M,479,W (Mon),@CHE Sun 11:30AM,0,0,0%,-,100%
+*04mi4*,Callum Hudson-Odoi,CHE,F,509,W (Mon),LIV Sun 11:30AM,0,0,8%,343.29,100%
+*06cm1*,Nicolas Jackson,CHE,F,515,W (Mon),LIV Sun 11:30AM,0,0,94%,68.54,100%
+*05g2o*,Joao Pedro,BHA,F,518,W (Mon),LUT Sat 10:00AM,0,0,100%,72.04,100%
+*06do9*,Milos Kerkez,BOU,D,526,W (Mon),WHU Sat 10:00AM,0,0,34%,138.49,100%
+*06clt*,Justin Kluivert,BOU,M,530,W (Mon),WHU Sat 10:00AM,0,0,68%,128.92,100%
+*052cb*,Ian Maatsen,CHE,D,550,W (Mon),LIV Sun 11:30AM,0,0,19%,210.81,100%
+*06c4p*,Benson Manuel,BUR,F,554,W (Mon),MCI Fri 3:00PM,0,0,36%,140.87,100%
+*0477b*,Oliver McBurnie,SHU,F,563,W (Mon),CRY Sat 10:00AM,0,0,23%,172.99,100%
+*0637a*,Charlie McNeill,MUN,F,567,W (Mon),WOL Mon 3:00PM,0,0,-,-,100%
+*0414p*,Carlton Morris,LUT,F,578,W (Mon),@BHA Sat 10:00AM,0,0,81%,112.04,100%
+*06cm0*,Christopher Nkunku,CHE,F,591,W (Mon),LIV Sun 11:30AM,0,0,100%,18.17,100%
+*02lnn*,Oliver Norwood,SHU,M,593,W (Mon),CRY Sat 10:00AM,0,0,15%,255.74,100%
+*06dps*,Andre Onana,MUN,G,604,W (Mon),WOL Mon 3:00PM,0,0,98%,83.86,100%
+*0661g*,Stefan Parkes,FUL,D,612,W (Mon),@EVE Sat 10:00AM,0,0,0%,-,100%
+*05vyc*,Aaron Ramsey,AVL,M,630,W (Mon),@NEW Sat 12:30PM,0,0,-,-,100%
+*04azm*,Connor Roberts,BUR,D,637,W (Mon),MCI Fri 3:00PM,0,0,20%,194.79,100%
+*06cmm*,Dominik Szoboszlai,LIV,M,661,W (Mon),@CHE Sun 11:30AM,0,0,100%,32.96,100%
+*06dmj*,Jurrien Timber,ARS,D,666,W (Mon),NOT Sat 7:30AM,0,0,96%,89.73,100%
+*06cms*,Sandro Tonali,NEW,M,667,W (Mon),AVL Sat 12:30PM,200,0,99%,77.51,100%
+*06crm*,Pau Torres,AVL,D,668,W (Mon),@NEW Sat 12:30PM,0,0,90%,104.9,100%
+*063y7*,Iyenoma Destiny Udogie,TOT,D,676,FA,@BRF Sun 9:00AM,0,0,77%,115.09,100%
+*0656s*,Radek Vitek,MUN,G,681,W (Mon),WOL Mon 3:00PM,0,0,0%,-,100%
+*06c4q*,Anass Zaroury,BUR,F,696,W (Mon),MCI Fri 3:00PM,0,0,51%,132.54,100%
+*05ymb*,Tayo Adaramola,CRY,D,372,FA,@SHU Sat 10:00AM,0,0,0%,-,0%
+*0626q*,Simon Adingra,BHA,F,374,W (Mon),LUT Sat 10:00AM,0,0,13%,279.66,0%
+*067y2*,Daniel Adu-Addei,BOU,M,375,FA,WHU Sat 10:00AM,0,0,0%,-,0%
+*06cm8*,Brandon Aguilera,NOT,M,376,W (Mon),@ARS Sat 7:30AM,0,0,0%,-,0%
+*06cly*,Enock Agyei,BUR,F,377,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*06c4j*,Ameen Al Dakhil,BUR,D,380,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*058vf*,Steven Alzate,BHA,M,382,FA,LUT Sat 10:00AM,0,0,0%,-,0%
+*06dn2*,Zeki Amdouni,BUR,F,383,W (Mon),MCI Fri 3:00PM,0,0,12%,265.24,0%
+*06cma*,Jordan Amissah,SHU,G,384,W (Mon),CRY Sat 10:00AM,0,0,0%,1125,0%
+*05amw*,Joseph Anang,WHU,G,386,FA,@BOU Sat 10:00AM,0,0,0%,-,0%
+*06cmv*,Mads Andersen,LUT,D,387,W (Mon),@BHA Sat 10:00AM,0,0,0%,-,0%
+*059j0*,Faustino Anjorin,CHE,M,388,W (Mon),LIV Sun 11:30AM,0,0,0%,-,0%
+*03r8p*,Harry Arter,NOT,M,390,FA,@ARS Sat 7:30AM,0,0,0%,-,0%
+*04gyd*,Brandon Austin,TOT,G,392,FA,@BRF Sun 9:00AM,0,0,0%,1146,0%
+*0435u*,Eric Bailly,MUN,D,393,W (Mon),WOL Mon 3:00PM,0,0,0%,-,0%
+*06dpr*,Benicio Baker-Boaitey,BHA,F,394,W (Mon),LUT Sat 10:00AM,0,0,1%,1231.6,0%
+*05u40*,Ellery Balcombe,BRF,G,395,W (Mon),TOT Sun 9:00AM,0,0,0%,1095,0%
+*051kz*,George Baldock,SHU,D,396,W (Mon),CRY Sat 10:00AM,0,0,5%,362.23,0%
+*059iq*,Folarin Balogun,ARS,F,397,W (Mon),NOT Sat 7:30AM,0,0,13%,288.66,0%
+*05lfr*,Scott Banks,CRY,F,398,W (Mon),@SHU Sat 10:00AM,0,0,0%,-,0%
+*02rlq*,Chris Basham,SHU,D,399,W (Mon),CRY Sat 10:00AM,0,0,0%,1131,0%
+*06c4m*,Samuel Bastien,BUR,M,401,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*066sf*,Eddie Beach,CHE,G,402,FA,LIV Sun 11:30AM,0,0,1%,1050.6,0%
+*06c5y*,Amari'i Bell,LUT,D,403,W (Mon),@BHA Sat 10:00AM,0,0,14%,262.27,0%
+*06dml*,Anis Ben Slimane,SHU,M,404,W (Mon),CRY Sat 10:00AM,0,0,1%,1123.93,0%
+*066rl*,Rhys Bennett,MUN,D,405,FA,WOL Mon 3:00PM,0,0,0%,1128.6,0%
+*05uhm*,Lucas Bergstrom,CHE,G,407,FA,LIV Sun 11:30AM,0,0,0%,-,0%
+*06c62*,Luke Berry,LUT,M,408,W (Mon),@BHA Sat 10:00AM,0,0,0%,-,0%
+*02ls8*,Marcus Bettinelli,CHE,G,409,FA,LIV Sun 11:30AM,0,0,0%,-,0%
+*06clx*,Jordan Beyer,BUR,D,410,W (Mon),MCI Fri 3:00PM,0,0,12%,276.76,0%
+*05o8o*,Jayden Bogle,SHU,D,411,W (Mon),CRY Sat 10:00AM,0,0,3%,374.07,0%
+*06dmk*,Angelo,CHE,F,412,W (Mon),LIV Sun 11:30AM,0,0,0%,1172.4,0%
+*05uhj*,Conor Bradley,LIV,D,416,W (Mon),@CHE Sun 11:30AM,0,0,7%,324.84,0%
+*05l27*,Jarrad Branthwaite,EVE,D,417,W (Mon),FUL Sat 10:00AM,0,0,1%,1133.93,0%
+*04c3c*,Rhian Brewster,SHU,F,419,W (Mon),CRY Sat 10:00AM,0,0,1%,1109.67,0%
+*06c6n*,Andre Brooks,SHU,M,422,W (Mon),CRY Sat 10:00AM,0,0,0%,-,0%
+*03amm*,Reece Burke,LUT,D,425,W (Mon),@BHA Sat 10:00AM,0,0,0%,-,0%
+*066sm*,Mason Burstow,CHE,F,427,FA,LIV Sun 11:30AM,0,0,0%,1104.4,0%
+*05tra*,Emiliano Marcondes Camargo Hansen,BOU,M,428,W (Mon),WHU Sat 10:00AM,0,0,0%,-,0%
+*06c65*,Allan Campbell,LUT,M,429,W (Mon),@BHA Sat 10:00AM,0,0,0%,-,0%
+*0579j*,Scott Carson,MCI,G,431,FA,@BUR Fri 3:00PM,0,0,1%,1122.5,0%
+*0641g*,Cesare Casadei,CHE,M,432,FA,LIV Sun 11:30AM,0,0,0%,1082.4,0%
+*056ix*,Bruno Jordao,WOL,M,433,FA,@MUN Mon 3:00PM,0,0,0%,-,0%
+*04qrd*,Ivan Cavaleiro,FUL,F,434,W (Mon),@EVE Sat 10:00AM,0,0,0%,-,0%
+*05xsd*,Daniel Chesters,WHU,M,436,FA,@BOU Sat 10:00AM,0,0,0%,-,0%
+*04spx*,Tahith Chong,LUT,M,437,FA,@BHA Sat 10:00AM,0,0,11%,305.71,0%
+*06c4r*,Darko Churlinov,BUR,F,438,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*062p2*,Bobby Clark,LIV,M,439,FA,@CHE Sun 11:30AM,0,0,0%,1166,0%
+*06c63*,Jordan Clark,LUT,M,440,W (Mon),@BHA Sat 10:00AM,0,0,3%,406.07,0%
+*06crn*,Toby Collyer,MUN,M,441,W (Mon),WOL Mon 3:00PM,0,0,0%,-,0%
+*02opl*,Jack Cork,BUR,M,442,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*060y3*,Dara Costelloe,BUR,F,443,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*06c6l*,Ismaila Coulibaly,SHU,M,444,W (Mon),CRY Sat 10:00AM,0,0,0%,-,0%
+*04xjt*,Conor Coventry,WHU,M,445,FA,@BOU Sat 10:00AM,0,0,0%,-,0%
+*03hff*,Josh Cullen,BUR,M,447,W (Mon),MCI Fri 3:00PM,0,0,5%,340.57,0%
+*04ybh*,Jamie Cumming,CHE,G,448,W (Mon),LIV Sun 11:30AM,0,0,1%,1116.8,0%
+*052k1*,Luke Cundle,WOL,M,449,FA,@MUN Mon 3:00PM,0,0,0%,-,0%
+*02lpm*,Adam Davies,SHU,G,451,W (Mon),CRY Sat 10:00AM,0,0,0%,-,0%
+*03yuo*,Keinan Davis,AVL,F,452,FA,@NEW Sat 12:30PM,0,0,0%,-,0%
+*05r34*,Amad Diallo,MUN,F,456,W (Mon),WOL Mon 3:00PM,0,0,3%,366.33,0%
+*05uog*,Lewis Dobbin,EVE,F,460,W (Mon),FUL Sat 10:00AM,0,0,0%,1194,0%
+*06c6a*,Alfie Doughty,LUT,M,461,W (Mon),@BHA Sat 10:00AM,0,0,47%,141.78,0%
+*032f5*,Paul Dummett,NEW,D,462,FA,AVL Sat 12:30PM,0,0,0%,-,0%
+*06dmn*,George Earthy,WHU,M,463,W (Mon),@BOU Sat 10:00AM,0,0,0%,-,0%
+*02m5l*,John Egan,SHU,D,464,W (Mon),CRY Sat 10:00AM,0,0,4%,371.7,0%
+*05uho*,CJ Egan-Riley,BUR,D,465,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*06c4h*,Hjalmar Ekdal,BUR,D,466,W (Mon),MCI Fri 3:00PM,0,0,2%,1081,0%
+*066rp*,Noam Emeran,MUN,F,467,FA,WOL Mon 3:00PM,0,0,0%,1062.2,0%
+*04mf8*,Nathan Ferguson,CRY,D,469,FA,@SHU Sat 10:00AM,0,0,0%,1121,0%
+*060yz*,Alvaro Fernandez,MUN,D,470,W (Mon),WOL Mon 3:00PM,0,0,0%,-,0%
+*051l5*,John Fleck,SHU,M,471,W (Mon),CRY Sat 10:00AM,0,0,1%,1132,0%
+*05n0a*,Wes Foderingham,SHU,G,473,W (Mon),CRY Sat 10:00AM,0,0,1%,1111.33,0%
+*06cro*,Omari Forson,MUN,M,474,W (Mon),WOL Mon 3:00PM,0,0,0%,-,0%
+*06c4o*,Lyle Foster,BUR,F,475,W (Mon),MCI Fri 3:00PM,0,0,0%,1094,0%
+*06c4f*,Denis Franchi,BUR,G,477,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*04shz*,Tyrese Francois,FUL,M,478,FA,@EVE Sat 10:00AM,0,0,0%,-,0%
+*02lyo*,Luke Freeman,LUT,M,480,W (Mon),@BHA Sat 10:00AM,0,0,0%,-,0%
+*056iu*,Jean-Philippe Gbamin,EVE,M,482,FA,FUL Sat 10:00AM,0,0,0%,-,0%
+*066si*,Alfie Gilchrist,CHE,D,483,FA,LIV Sun 11:30AM,0,0,0%,1078.8,0%
+*04sjv*,Ryan Giles,LUT,F,484,W (Mon),@BHA Sat 10:00AM,0,0,3%,374.34,0%
+*05n09*,Mark Gillespie,NEW,G,485,FA,AVL Sat 12:30PM,0,0,0%,-,0%
+*06441*,Martial Godo,FUL,F,486,W (Mon),@EVE Sat 10:00AM,0,0,0%,-,0%
+*05tr0*,Charlie Goode,BRF,D,487,FA,TOT Sun 9:00AM,0,0,0%,1159,0%
+*05m9s*,John-Kymani Gordon,CRY,F,488,FA,@SHU Sat 10:00AM,0,0,0%,-,0%
+*066rn*,Daniel Gore,MUN,M,489,FA,WOL Mon 3:00PM,0,0,0%,1084.2,0%
+*061vc*,Ben Greenwood,BOU,D,490,FA,WHU Sat 10:00AM,0,0,0%,-,0%
+*04spy*,Mason Greenwood,MUN,F,491,W (Mon),WOL Mon 3:00PM,0,0,13%,285.95,0%
+*066rj*,Sean Grehan,CRY,D,492,FA,@SHU Sat 10:00AM,0,0,0%,1083.2,0%
+*044ej*,Johann Gudmundsson,BUR,M,493,W (Mon),MCI Fri 3:00PM,0,0,14%,281.3,0%
+*06clz*,Malo Gusto,CHE,D,495,W (Mon),LIV Sun 11:30AM,0,0,16%,243.65,0%
+*06378*,Isak Hansen-Aaroen,MUN,M,498,FA,WOL Mon 3:00PM,0,0,0%,-,0%
+*06do5*,Elyh Harrison,MUN,G,499,W (Mon),WOL Mon 3:00PM,0,0,1%,1037.07,0%
+*04qr4*,Kortney Hause,AVL,D,500,FA,@NEW Sat 12:30PM,0,0,0%,-,0%
+*035mq*,Isaac Hayden,NEW,M,501,W (Mon),AVL Sat 12:30PM,0,0,0%,-,0%
+*03dwz*,Tom Heaton,MUN,G,502,FA,WOL Mon 3:00PM,0,0,1%,1057.67,0%
+*05oz4*,Karl Hein,ARS,G,503,FA,NOT Sat 7:30AM,0,0,0%,-,0%
+*047l2*,Jeff Hendrick,NEW,M,504,W (Mon),AVL Sat 12:30PM,0,0,0%,-,0%
+*061vb*,James Hill,BOU,D,505,FA,WHU Sat 10:00AM,0,0,0%,-,0%
+*067ys*,Jack Hinshelwood,BHA,M,506,FA,LUT Sat 10:00AM,0,0,0%,-,0%
+*061xt*,Ethan Horvath,NOT,G,508,W (Mon),@ARS Sat 7:30AM,0,0,1%,1132.67,0%
+*05ue2*,Joe Hugill,MUN,F,510,FA,WOL Mon 3:00PM,0,0,1%,989.8,0%
+*066sh*,Bashir Humphreys,CHE,D,511,FA,LIV Sun 11:30AM,0,0,0%,1139,0%
+*06cm9*,Hwang Ui-Jo,NOT,F,513,W (Mon),@ARS Sat 7:30AM,0,0,0%,1045,0%
+*05t6z*,Tim Iroegbunam,AVL,M,514,FA,@NEW Sat 12:30PM,0,0,0%,-,0%
+*052ce*,Vitezslav Jaros,LIV,G,516,W (Mon),@CHE Sun 11:30AM,0,0,1%,1095.07,0%
+*05s00*,Daniel Jebbison,SHU,F,517,W (Mon),CRY Sat 10:00AM,0,0,0%,-,0%
+*066rk*,Marc Jurado Gomez,MUN,D,519,FA,WOL Mon 3:00PM,0,0,0%,-,0%
+*062cl*,Issa Kabore,LUT,D,520,W (Mon),@BHA Sat 10:00AM,0,0,2%,1103.45,0%
+*05r8c*,Michal Karbownik,BHA,D,523,W (Mon),LUT Sat 10:00AM,0,0,0%,-,0%
+*0435r*,Loris Karius,NEW,G,524,FA,AVL Sat 12:30PM,0,0,0%,1095,0%
+*057a1*,Gavin Kilkenny,BOU,M,527,W (Mon),WHU Sat 10:00AM,0,0,0%,-,0%
+*06cmt*,Tom King,WOL,G,529,W (Mon),@MUN Mon 3:00PM,0,0,0%,-,0%
+*06dmm*,Jacob Knightbridge,WHU,G,531,W (Mon),@BOU Sat 10:00AM,0,0,0%,1119.4,0%
+*03dyo*,Anthony Knockaert,FUL,M,532,FA,@EVE Sat 10:00AM,0,0,0%,-,0%
+*04mks*,Terence Kongolo,FUL,D,534,FA,@EVE Sat 10:00AM,0,0,0%,1152,0%
+*06do4*,Louie Koumas,LIV,F,535,W (Mon),@CHE Sun 11:30AM,0,0,0%,1153,0%
+*04ufy*,Matej Kovar,MUN,G,536,FA,WOL Mon 3:00PM,0,0,1%,1071.33,0%
+*05746*,Emil Krafth,NEW,D,537,FA,AVL Sat 12:30PM,0,0,0%,-,0%
+*067yw*,Garang Kuol,NEW,F,538,FA,AVL Sat 12:30PM,0,0,0%,1068,0%
+*02m5r*,Louis Laing,WHU,M,539,FA,@BOU Sat 10:00AM,0,0,0%,-,0%
+*052cg*,Yasser Larouci,SHU,D,540,W (Mon),CRY Sat 10:00AM,0,0,1%,1102.93,0%
+*06c4n*,Marcel Lewis,BUR,M,541,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*0574a*,Giovani Lo Celso,TOT,M,543,W (Mon),@BRF Sun 9:00AM,0,0,16%,239.71,0%
+*06c5x*,Tom Lockyer,LUT,D,544,W (Mon),@BHA Sat 10:00AM,0,0,32%,147.17,0%
+*054oz*,Andy Lonergan,EVE,G,545,FA,FUL Sat 10:00AM,0,0,0%,-,0%
+*061vi*,Jamal Lowe,BOU,F,546,FA,WHU Sat 10:00AM,0,0,0%,-,0%
+*05o8n*,Max Lowe,SHU,D,547,W (Mon),CRY Sat 10:00AM,0,0,3%,405.79,0%
+*02m7x*,Romelu Lukaku,CHE,F,548,W (Mon),LIV Sun 11:30AM,0,0,8%,331.98,0%
+*03m0y*,Matt Macey,LUT,G,551,W (Mon),@BHA Sat 10:00AM,0,0,0%,1120,0%
+*06do0*,Finley Marjoram,CRY,D,555,W (Mon),@SHU Sat 10:00AM,0,0,0%,1122,0%
+*06do1*,Zach Marsh,CRY,F,557,W (Mon),@SHU Sat 10:00AM,0,0,0%,1039,0%
+*05ubh*,Remi Matthews,CRY,G,558,W (Mon),@SHU Sat 10:00AM,0,0,0%,1161,0%
+*061xx*,Loic Mbe Soh,NOT,D,559,FA,@ARS Sat 7:30AM,0,0,0%,-,0%
+*06bs3*,Sean McAllister,EVE,M,560,FA,FUL Sat 10:00AM,0,0,0%,-,0%
+*06cm5*,John McAtee,LUT,F,562,W (Mon),@BHA Sat 10:00AM,0,0,0%,1019,0%
+*06do3*,James McConnell,LIV,M,564,W (Mon),@CHE Sun 11:30AM,0,0,0%,1080,0%
+*05rbn*,Thomas McGill,BHA,G,566,FA,LUT Sat 10:00AM,0,0,0%,-,0%
+*05uhs*,James Mcatee,MCI,M,568,W (Mon),@BUR Fri 3:00PM,0,0,0%,1154,0%
+*05t6y*,Hannibal Mejbri,MUN,M,570,W (Mon),WOL Mon 3:00PM,0,0,0%,-,0%
+*05afe*,Teden Mengi,MUN,D,572,FA,WOL Mon 3:00PM,0,0,0%,-,0%
+*061y9*,Alex Mighten,NOT,F,573,FA,@ARS Sat 7:30AM,0,0,0%,-,0%
+*06ab3*,Lewis Miley,NEW,M,575,FA,AVL Sat 12:30PM,0,0,0%,-,0%
+*05r37*,Jakub Moder,BHA,M,576,FA,LUT Sat 10:00AM,0,0,0%,-,0%
+*05vyh*,Andrew Moran,BHA,M,577,FA,LUT Sat 10:00AM,0,0,0%,-,0%
+*05uhk*,Tyler Morton,LIV,M,579,W (Mon),@CHE Sun 11:30AM,0,0,0%,-,0%
+*062oz*,Fabian Mrozek,LIV,G,580,FA,@CHE Sun 11:30AM,0,0,0%,-,0%
+*061vn*,Rodrigo Muniz,FUL,F,581,FA,@EVE Sat 10:00AM,0,0,0%,-,0%
+*04gw6*,Arijanet Muric,BUR,G,582,W (Mon),MCI Fri 3:00PM,0,0,1%,1166.5,0%
+*052i8*,Admiral Muskwe,LUT,F,584,W (Mon),@BHA Sat 10:00AM,0,0,0%,-,0%
+*055se*,Marvelous Nakamba,LUT,M,585,FA,@BHA Sat 10:00AM,0,0,5%,342.14,0%
+*068a0*,Andrey Santos,CHE,M,586,FA,LIV Sun 11:30AM,0,0,3%,348.34,0%
+*05247*,Tanguy Ndombele,TOT,M,588,W (Mon),@BRF Sun 9:00AM,0,0,6%,357.4,0%
+*04tsc*,Joao Virginia,EVE,G,589,W (Mon),FUL Sat 10:00AM,0,0,29%,130.78,0%
+*051l4*,Rhys Norrington-Davies,SHU,D,592,W (Mon),CRY Sat 10:00AM,0,0,0%,-,0%
+*062oh*,Jake O'Brien,CRY,D,595,W (Mon),@SHU Sat 10:00AM,0,0,0%,-,0%
+*04gpx*,Dara O'Shea,BUR,D,596,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*04mmx*,Michael Obafemi,BUR,F,597,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*06cm4*,Chiedozie Ogbene,LUT,F,599,W (Mon),@BHA Sat 10:00AM,0,0,1%,1134.6,0%
+*05rgv*,Arthur Okonkwo,ARS,G,600,W (Mon),NOT Sat 7:30AM,0,0,0%,1112.2,0%
+*06avl*,Michael Olakigbe,BRF,F,601,W (Mon),TOT Sun 9:00AM,0,0,0%,-,0%
+*061xr*,Marquinhos,ARS,F,602,W (Mon),NOT Sat 7:30AM,0,0,0%,-,0%
+*067yy*,Luizao,WHU,D,603,FA,@BOU Sat 10:00AM,0,0,0%,-,0%
+*055c0*,Ben Osborn,SHU,M,605,W (Mon),CRY Sat 10:00AM,0,0,0%,-,0%
+*06c5z*,Gabriel Osho,LUT,D,606,W (Mon),@BHA Sat 10:00AM,0,0,0%,-,0%
+*0680n*,Detlef Esapa Osong,NOT,F,607,W (Mon),@ARS Sat 7:30AM,0,0,0%,-,0%
+*05t6x*,William Osula,SHU,F,608,W (Mon),CRY Sat 10:00AM,0,0,0%,-,0%
+*066ro*,Maximillian Oyedele,MUN,M,609,FA,WOL Mon 3:00PM,0,0,0%,1217.2,0%
+*062ow*,David Ozoh,CRY,M,610,FA,@SHU Sat 10:00AM,0,0,0%,-,0%
+*061xz*,Jonathan Panzo,NOT,D,611,W (Mon),@ARS Sat 7:30AM,0,0,0%,-,0%
+*05nuf*,Myles Peart-Harris,BRF,M,614,W (Mon),TOT Sun 9:00AM,0,0,0%,-,0%
+*055sk*,Nicolas Pepe,ARS,F,615,W (Mon),NOT Sat 7:30AM,0,0,0%,1202,0%
+*06c6e*,Aribim Pepple,LUT,F,616,W (Mon),@BHA Sat 10:00AM,0,0,0%,1170,0%
+*04boi*,Dion Pereira,LUT,M,617,W (Mon),@BHA Sat 10:00AM,0,0,0%,-,0%
+*068sf*,Maximo Perrone,MCI,M,618,FA,@BUR Fri 3:00PM,0,0,0%,1089,0%
+*062dl*,Killian Phillips,CRY,M,620,FA,@SHU Sat 10:00AM,0,0,0%,-,0%
+*05rff*,Jaden Philogene-Bidace,AVL,M,621,W (Mon),@NEW Sat 12:30PM,0,0,3%,393.33,0%
+*066e8*,Cameron Plain,BOU,G,622,FA,WHU Sat 10:00AM,0,0,0%,1034,0%
+*068na*,Euan Pollock,BOU,F,623,FA,WHU Sat 10:00AM,0,0,0%,-,0%
+*02onn*,Daniel Potts,LUT,D,624,W (Mon),@BHA Sat 10:00AM,0,0,0%,-,0%
+*05y7i*,Jarell Quansah,LIV,D,627,FA,@CHE Sun 11:30AM,0,0,0%,-,0%
+*05rjn*,Jesurun Rak-Sakyi,CRY,M,629,FA,@SHU Sat 10:00AM,0,0,0%,-,0%
+*03rll*,Darren Randolph,BOU,G,631,FA,WHU Sat 10:00AM,0,0,0%,-,0%
+*06cm2*,Glen Rea,LUT,D,632,W (Mon),@BHA Sat 10:00AM,0,0,0%,1082,0%
+*02rll*,Nathan Redmond,BUR,M,633,W (Mon),MCI Fri 3:00PM,0,0,1%,1203.2,0%
+*05ohc*,Sergio Reguilon,TOT,D,634,W (Mon),@BRF Sun 9:00AM,0,0,10%,293.17,0%
+*068nb*,Sebastian Revan,AVL,D,635,FA,@NEW Sat 12:30PM,0,0,0%,-,0%
+*062op*,Omar Richards,NOT,D,636,FA,@ARS Sat 7:30AM,0,0,0%,1103,0%
+*02lkj*,Jack Robinson,SHU,D,638,W (Mon),CRY Sat 10:00AM,0,0,2%,1103.5,0%
+*062oi*,Kaden Rodney,CRY,M,639,FA,@SHU Sat 10:00AM,0,0,0%,1075.6,0%
+*03yqz*,Joe Rodon,TOT,D,640,W (Mon),@BRF Sun 9:00AM,0,0,0%,-,0%
+*02oq3*,Jay Rodriguez,BUR,F,641,W (Mon),MCI Fri 3:00PM,0,0,2%,377.5,0%
+*037mv*,Pelly Ruddock,LUT,M,642,W (Mon),@BHA Sat 10:00AM,0,0,0%,1122,0%
+*05oif*,Runar Alex Runarsson,ARS,G,643,FA,NOT Sat 7:30AM,0,0,0%,1120,0%
+*06c6k*,Sai Sachdev,SHU,D,644,W (Mon),CRY Sat 10:00AM,0,0,0%,-,0%
+*0643v*,Dominic Sadi,BOU,F,645,FA,WHU Sat 10:00AM,0,0,0%,-,0%
+*06bq0*,Imari Samuels,BHA,D,646,FA,LUT Sat 10:00AM,0,0,0%,-,0%
+*03274*,Adrian,LIV,G,647,FA,@CHE Sun 11:30AM,0,0,0%,-,0%
+*05nsf*,Malang Sarr,CHE,D,648,W (Mon),LIV Sun 11:30AM,0,0,0%,-,0%
+*06c4k*,Dan Sassi,BUR,D,649,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*06do2*,Callum Scanlon,LIV,D,651,W (Mon),@CHE Sun 11:30AM,0,0,0%,1128,0%
+*02oph*,James Shea,LUT,G,652,W (Mon),@BHA Sat 10:00AM,0,0,20%,197.03,0%
+*068yw*,George Shelvey,NOT,G,654,W (Mon),@ARS Sat 7:30AM,0,0,0%,-,0%
+*05rdx*,Shola Shoretire,MUN,F,655,FA,WOL Mon 3:00PM,0,0,1%,997.27,0%
+*063c2*,Gabriel Slonina,CHE,G,656,FA,LIV Sun 11:30AM,0,0,0%,1138,0%
+*05o8k*,Fabio Silva,WOL,F,658,W (Mon),@MUN Mon 3:00PM,0,0,1%,1126.6,0%
+*05lfs*,Zack Steffen,MCI,G,659,W (Mon),@BUR Fri 3:00PM,0,0,0%,-,0%
+*062p4*,Thomas Strakosha,BRF,G,660,FA,TOT Sun 9:00AM,0,0,0%,1048,0%
+*04u6l*,Andre Gomes,EVE,M,662,FA,FUL Sat 10:00AM,0,0,0%,-,0%
+*05u99*,Nuno Tavares,ARS,D,663,W (Mon),NOT Sat 7:30AM,0,0,0%,-,0%
+*04fyc*,Charlie Taylor,BUR,D,664,W (Mon),MCI Fri 3:00PM,0,0,0%,1083,0%
+*06c6d*,Joseph Taylor,LUT,F,665,W (Mon),@BHA Sat 10:00AM,0,0,1%,1077.5,0%
+*05oz3*,James Trafford,BUR,G,670,W (Mon),MCI Fri 3:00PM,0,0,24%,160.49,0%
+*06dn3*,Benie Traore,SHU,F,671,W (Mon),CRY Sat 10:00AM,0,0,2%,1103.7,0%
+*062ce*,Auston Trusty,SHU,D,672,W (Mon),CRY Sat 10:00AM,0,0,0%,1165,0%
+*062ds*,Matt Turner,ARS,G,673,FA,NOT Sat 7:30AM,0,0,1%,1183,0%
+*06c4l*,Scott Twine,BUR,M,675,W (Mon),MCI Fri 3:00PM,0,0,2%,372.3,0%
+*06cmu*,Bart Verbruggen,BHA,G,678,W (Mon),LUT Sat 10:00AM,0,0,18%,227.35,0%
+*06cmb*,Guglielmo Vicario,TOT,G,679,W (Mon),@BRF Sun 9:00AM,0,0,35%,143.42,0%
+*06cki*,Lawrence Vigouroux,BUR,G,680,W (Mon),MCI Fri 3:00PM,0,0,0%,-,0%
+*04kjd*,Nikola Vlasic,WHU,M,682,W (Mon),@BOU Sat 10:00AM,0,0,0%,1138,0%
+*06c64*,Louie Watson,LUT,M,683,W (Mon),@BHA Sat 10:00AM,0,0,0%,-,0%
+*05r4z*,Jensen Weir,BHA,M,684,W (Mon),LUT Sat 10:00AM,0,0,0%,-,0%
+*05ye4*,Jack Wells-Morrison,CRY,M,685,FA,@SHU Sat 10:00AM,0,0,0%,-,0%
+*048xn*,Alfie Whiteman,TOT,G,688,FA,@BRF Sun 9:00AM,0,0,0%,-,0%
+*06ajx*,George Wickens,FUL,G,689,FA,@EVE Sat 10:00AM,0,0,0%,-,0%
+*059j3*,Brandon Williams,MUN,D,690,FA,WOL Mon 3:00PM,0,0,0%,-,0%
+*03bmf*,Cauley Woodrow,LUT,F,692,W (Mon),@BHA Sat 10:00AM,0,0,0%,-,0%
+*066r9*,Ehor Yarmolyuk,BRF,M,694,FA,TOT Sun 9:00AM,0,0,0%,-,0%
+*066tb*,Kadan Young,AVL,M,695,FA,@NEW Sat 12:30PM,0,0,0%,-,0%
+*05opi*,Andi Zeqiri,BHA,F,697,W (Mon),LUT Sat 10:00AM,0,0,0%,-,0%
+*06cmd*,Diego Moreira,CHE,F,698,W (Mon),LIV Sun 11:30AM,0,0,0%,1144,0%
+*06c4i*,Vitinho,BUR,D,699,W (Mon),MCI Fri 3:00PM,0,0,4%,375,0%
+*03frx*,Ola Aina,NOT,D,379,W (Mon),@ARS Sat 7:30AM,0,0,-,-,-
+*06ewt*,Sonny Aljofree,MUN,D,381,W (Mon),WOL Mon 3:00PM,0,0,-,-,-
+*06ewp*,Samuel Amissah,FUL,D,385,W (Mon),@EVE Sat 10:00AM,0,0,-,-,-
+*0554g*,Calvin Bassey,FUL,D,400,W (Mon),@EVE Sat 10:00AM,0,0,-,-,-
+*06ewm*,Alex Borto,FUL,G,413,W (Mon),@EVE Sat 10:00AM,0,0,-,-,-
+*06ex2*,Aaron Bott,NOT,G,414,W (Mon),@ARS Sat 7:30AM,0,0,-,-,-
+*06dpx*,Ethan Brierley,BRF,M,420,W (Mon),TOT Sun 9:00AM,0,0,-,-,-
+*06dwm*,Jacob Bruun Larsen,BUR,F,424,W (Mon),MCI Fri 3:00PM,0,0,-,-,-
+*06exg*,Nathan Carlyon,NEW,M,430,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06ewn*,Luc De Fougerolles,FUL,D,454,W (Mon),@EVE Sat 10:00AM,0,0,-,-,-
+*06exh*,Amadou Diallo,NEW,F,457,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06ew2*,Axel Disasi,CHE,D,459,W (Mon),LIV Sun 11:30AM,0,0,-,-,-
+*06exa*,Matheus Franca,CRY,F,476,W (Mon),@SHU Sat 10:00AM,0,0,-,-,-
+*06exj*,Luca Gunter,TOT,G,494,W (Mon),@BRF Sun 9:00AM,0,0,-,-,-
+*06ex4*,Josko Gvardiol,MCI,D,496,W (Mon),@BUR Fri 3:00PM,350,0,-,-,-
+*06exd*,Jordan Hackett-Valton,NEW,D,497,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06exb*,Rasmus Hojlund,MUN,F,507,W (Mon),WOL Mon 3:00PM,0,0,-,-,-
+*06exf*,James Huntley,NEW,M,512,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06ewu*,Willy Kambwala,MUN,D,521,W (Mon),WOL Mon 3:00PM,0,0,-,-,-
+*06ewr*,Thomas Kaminski,LUT,G,522,W (Mon),@BHA Sat 10:00AM,0,0,-,-,-
+*06dpv*,Omari Kellyman,AVL,M,525,W (Mon),@NEW Sat 12:30PM,0,0,-,-,-
+*06dpw*,Ji-Soo Kim,BRF,D,528,W (Mon),TOT Sun 9:00AM,0,0,-,-,-
+*06dqv*,Luca Koleosho,BUR,F,533,W (Mon),MCI Fri 3:00PM,0,0,-,-,-
+*05y6a*,Filip Marschall,AVL,G,556,W (Mon),@NEW Sat 12:30PM,0,0,-,-,-
+*06exe*,Charlie McArthur,NEW,D,561,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06ewq*,Delano McCoy-Splatt,FUL,M,565,W (Mon),@EVE Sat 10:00AM,0,0,-,-,-
+*06ews*,Dermot Mee,MUN,G,569,W (Mon),WOL Mon 3:00PM,0,0,-,-,-
+*06eww*,Jose Mateo Mejia Piedrahita,MUN,F,571,W (Mon),WOL Mon 3:00PM,0,0,-,-,-
+*06ex0*,Jamie Miley,NEW,M,574,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06ewy*,Alex Murphy,NEW,D,583,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06exi*,Michael Ndiweni,NEW,F,587,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06ewo*,Idris Odutayo,FUL,D,598,W (Mon),@EVE Sat 10:00AM,0,0,-,-,-
+*06ex1*,Ben Parkinson,NEW,F,613,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06exk*,Ashley Phillips,TOT,D,619,W (Mon),@BRF Sun 9:00AM,0,0,-,-,-
+*06ex3*,Josh Powell,NOT,M,625,W (Mon),@ARS Sat 7:30AM,0,0,-,-,-
+*06ewv*,Logan Pye,MUN,D,626,W (Mon),WOL Mon 3:00PM,0,0,-,-,-
+*06dwl*,Ionut Radu,BOU,G,628,W (Mon),WHU Sat 10:00AM,0,0,-,-,-
+*06ewx*,Remi Savage,NEW,D,650,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06exc*,Jude Smith,NEW,G,657,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06ewz*,Jay Turner-Cooke,NEW,M,674,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06eo0*,Lesley Ugochukwu,CHE,F,677,W (Mon),LIV Sun 11:30AM,0,0,-,-,-
+*05wqy*,Joe White,NEW,M,687,W (Mon),AVL Sat 12:30PM,0,0,-,-,-
+*06exm*,Tom Wooster,MUN,G,693,W (Mon),WOL Mon 3:00PM,0,0,-,-,-
+*05uem*,Marcelo Pitaluga,LIV,G,700,W (Mon),@CHE Sun 11:30AM,0,0,-,-,-
+*06eka*,Igor Julio dos Santos de Paulo,BHA,D,701,W (Mon),LUT Sat 10:00AM,0,0,-,-,-
+*058vb*,Cameron Archer,AVL,F,702,W (Mon),@NEW Sat 12:30PM,-0.5,-0.08,2%,1090.45,0%
+*063dz*,Luke Harris,FUL,M,703,FA,@EVE Sat 10:00AM,-0.5,-0.17,0%,-,0%
+*03pig*,Jamaal Lascelles,NEW,D,704,FA,AVL Sat 12:30PM,-1.75,-0.25,0%,-,0%
