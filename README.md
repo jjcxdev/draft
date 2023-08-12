@@ -30,3 +30,34 @@ The Fantasy Draft Assistant is a Python-based tool designed to assist users in p
 
    ```bash
    git clone https://github.com/jjcxdev/draft.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd draft
+   ```
+
+3. Install the required dependencies:
+
+   ```bash
+   pip install pandas
+   ```
+
+4. Run the main script:
+
+   ```bash
+   python draft.py
+   ```
+   
+## Contribution
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/jjcxdev/draft/issues) or open a [pull request](https://github.com/jjcxdev/draft/pulls).
+
+## License
+
+[MIT License](LICENSE)
+
+## Contact
+
+Justin Chambers - j@jjcx.dev
